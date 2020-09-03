@@ -5,10 +5,10 @@
   "keywords": ["passport", "cookie", "persistent", "rememberme", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-remember-me.git"
+    "url": "git://github.com/sos82/passport-remember-me.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-remember-me/issues"
+    "url": "http://github.com/sos82/passport-remember-me/issues"
   },
   "author": {
     "name": "Jared Hanson",
